@@ -1,0 +1,13 @@
+*{
+    border: 1px dashed rgb(13, 13, 13);
+    min-height: 10px;
+}
+body{
+    background-color: rgb(71, 122, 158);
+}
+.postcard{
+    width: 400px;
+    height: 300px;
+    background-color: rgb(red, green, blue);
+    margin: auto;
+}
