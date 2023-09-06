@@ -1,12 +1,12 @@
   
 body{
-    background: black;
+    background: rgb(220, 208, 208);
     
 }
 .postcard{
     width: 400px;
     height: 300px;
-    background: rgb(236, 188, 188);
+    background: rgb(135, 210, 165);
     margin: auto;
 }
 .postcard-header{
@@ -43,6 +43,6 @@ input {
     text-align: center;
 }
 button{
-    background-color: brown;
+    background-color: rgb(138, 119, 195);
     padding: 5px 10px;
 }
